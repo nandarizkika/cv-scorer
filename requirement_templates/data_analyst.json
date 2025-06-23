@@ -1,0 +1,12 @@
+{
+    "requirements": [
+        {"text": "Advanced Excel skills (Pivot tables, VLookup, Macros)", "weight": "High", "type": "score"},
+        {"text": "SQL proficiency for data querying", "weight": "High", "type": "score"},
+        {"text": "Data visualization expertise (Tableau, Power BI, QlikView)", "weight": "High", "type": "score"},
+        {"text": "Statistical analysis and hypothesis testing", "weight": "High", "type": "score"},
+        {"text": "Basic programming skills (Python or R)", "weight": "Medium", "type": "score"},
+        {"text": "Knowledge of business intelligence tools", "weight": "Medium", "type": "score"},
+        {"text": "Report writing and presentation skills", "weight": "Medium", "type": "score"},
+        {"text": "Understanding of data cleaning techniques", "weight": "Low", "type": "score"}
+    ]
+}

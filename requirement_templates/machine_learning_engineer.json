@@ -1,0 +1,12 @@
+{
+    "requirements": [
+        {"text": "Advanced machine learning algorithm implementation", "weight": "High", "type": "score"},
+        {"text": "Deep learning framework expertise (TensorFlow, PyTorch)", "weight": "High", "type": "score"},
+        {"text": "Model deployment and MLOps skills", "weight": "High", "type": "score"},
+        {"text": "Advanced Python programming", "weight": "High", "type": "score"},
+        {"text": "Experience with cloud ML platforms (AWS SageMaker, Google AI Platform)", "weight": "Medium", "type": "score"},
+        {"text": "Statistical modeling and probabilistic reasoning", "weight": "Medium", "type": "score"},
+        {"text": "Knowledge of data preprocessing and feature engineering", "weight": "Medium", "type": "score"},
+        {"text": "Understanding of distributed computing", "weight": "Low", "type": "score"}
+    ]
+}

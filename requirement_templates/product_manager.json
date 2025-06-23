@@ -1,0 +1,12 @@
+{
+    "requirements": [
+        {"text": "Strategic product planning", "weight": "High", "type": "score"},
+        {"text": "User experience (UX) research skills", "weight": "High", "type": "score"},
+        {"text": "Agile methodology expertise", "weight": "High", "type": "score"},
+        {"text": "Data-driven decision making", "weight": "High", "type": "score"},
+        {"text": "Stakeholder communication", "weight": "Medium", "type": "score"},
+        {"text": "Technical understanding of product development", "weight": "Medium", "type": "score"},
+        {"text": "Market research and competitive analysis", "weight": "Medium", "type": "score"},
+        {"text": "Basic understanding of product analytics", "weight": "Low", "type": "score"}
+    ]
+}

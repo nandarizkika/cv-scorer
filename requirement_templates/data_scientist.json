@@ -1,0 +1,12 @@
+{
+    "requirements": [
+        {"text": "Strong programming skills (Python, R, SQL)", "weight": "High", "type": "score"},
+        {"text": "Proficiency in data manipulation and analysis (Pandas, NumPy)", "weight": "High", "type": "score"},
+        {"text": "Experience with data visualization (Matplotlib, Seaborn, Tableau)", "weight": "Medium", "type": "score"},
+        {"text": "Knowledge of machine learning algorithms (scikit-learn, TensorFlow, PyTorch)", "weight": "High", "type": "score"},
+        {"text": "Understanding of statistics and probability", "weight": "High", "type": "score"},
+        {"text": "Familiarity with big data technologies (Hadoop, Spark)", "weight": "Low", "type": "score"},
+        {"text": "Database management skills", "weight": "Medium", "type": "score"},
+        {"text": "Experience with cloud platforms (AWS, GCP, Azure)", "weight": "Medium", "type": "score"}
+    ]
+}

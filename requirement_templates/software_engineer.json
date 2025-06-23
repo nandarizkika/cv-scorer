@@ -1,0 +1,12 @@
+{
+    "requirements": [
+        {"text": "Proficiency in multiple programming languages (Java, Python, JavaScript)", "weight": "High", "type": "score"},
+        {"text": "Object-oriented programming principles", "weight": "High", "type": "score"},
+        {"text": "Experience with web development frameworks", "weight": "High", "type": "score"},
+        {"text": "Database design and management", "weight": "High", "type": "score"},
+        {"text": "Version control with Git", "weight": "Medium", "type": "score"},
+        {"text": "Understanding of software design patterns", "weight": "Medium", "type": "score"},
+        {"text": "API development and integration", "weight": "Medium", "type": "score"},
+        {"text": "Containerization and cloud deployment skills", "weight": "Low", "type": "score"}
+    ]
+}
