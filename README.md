@@ -40,7 +40,7 @@ The AI-Powered CV Scoring Engine is an advanced, automated candidate screening t
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/cv-scoring-engine.git
+git clone https://github.com/nandarizkika/cv-scorer.git
 cd cv-scoring-engine
 ```
 
